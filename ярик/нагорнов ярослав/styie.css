@@ -1,0 +1,52 @@
+body {
+    font-family: "Rampart One", sans-serif;
+    background-color: rgba(0, 255, 13, 0.808);
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgba(116, 255, 209, 0.836);
+    color: rgba(0, 0, 255, 0.753);
+    text-align:center;
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.Section{
+    padding: 30px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+.Section h2{
+    margin-bottom: 20px;
+    color: rgb(255, 145, 0);
+}
+.card {
+    border-radius: 8px;
+    padding: 15px 20px;
+    box-shadow: 50px 49px 59px 31px rgba(34, 60, 80, 0.2);
+    margin-bottom: 20px;
+}
+.button{
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px ;
+}
+.button:hover{
+    background-color: rgba(238, 28, 28, 0.795);
+}
+.image{
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    color: rgb(142, 255, 127);
+}
