@@ -1,0 +1,65 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgba(255, 255, 255, 0.308);
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.section {
+    padding: 30px 20px;
+    max-width: 800px;
+    color: black;
+    margin: auto;
+}
+
+.section h2 {
+    margin-bottom: 20px;
+    color: rgb(26, 138, 236);
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+.image {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: brown;
+}
+
+.button {
+    display: inline-block;
+    background-color: rgb(104, 104, 231);
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.button:hover{
+    background-color: blueviolet;
+}
