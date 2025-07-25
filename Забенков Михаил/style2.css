@@ -1,0 +1,51 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+
+}  
+header {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+} 
+
+h1 {
+    margin: 0;
+}
+.section {
+    padding: 30px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+.section h2 {
+    margin-bottom: 20px;
+    color: #040404;
+}
+
+.card {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+.image {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
